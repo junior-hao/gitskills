@@ -11,3 +11,5 @@ Add a new brancd to the file.
 >>>>>>> feature1
 
 forth alter¡£
+
+add merge-
