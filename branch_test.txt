@@ -2,6 +2,12 @@ branch test
 
 Git is a good tool for the people who worked for IT.
 
+<<<<<<< HEAD
 Add a new branch to the file.
 
 the third alter.
+=======
+Add a new brancd to the file.
+>>>>>>> feature1
+
+forth alter¡£
