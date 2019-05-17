@@ -12,4 +12,4 @@ Add a new brancd to the file.
 
 forth alter¡£
 
-add merge-
+add a stash except   -merge-
